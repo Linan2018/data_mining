@@ -12,7 +12,7 @@
 
 # [2. 聚类技术 复杂网络社团检测](https://github.com/Linan2018/data_mining/tree/master/hw2)
 
-1. 导入 karate.gml 中的空手道网络数据；
+1. 导入`karate.gml`中的空手道网络数据；
 
 2. 根据网络结构特征给出节点相似性度量指标；
 
