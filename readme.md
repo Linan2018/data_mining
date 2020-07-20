@@ -10,7 +10,13 @@
 
 5. 画出 ROC 曲线来度量预测方法的准确性。
 
-### [2. 聚类技术 复杂网络社团检测](https://github.com/Linan2018/data_mining/tree/master/hw2)
+### [2. 关联规则挖掘 美国国会投票记录](https://github.com/Linan2018/data_mining/tree/master/hw2)
+
+1. [数据来源](http://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Records)
+
+2. 使用 Apriori算法，支持度设为 30%，置信度为 90%，挖掘高置信度的规则
+
+### [3. 聚类技术 复杂网络社团检测](https://github.com/Linan2018/data_mining/tree/master/hw3)
 
 1. 导入`karate.gml`中的空手道网络数据；
 
@@ -22,8 +28,4 @@
 
 5. 可视化聚类结果。
 
-### [3. 关联规则挖掘 美国国会投票记录](https://github.com/Linan2018/data_mining/tree/master/hw3)
 
-1. [数据来源](http://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Records)
-
-2. 使用 Apriori算法，支持度设为 30%，置信度为 90%，挖掘高置信度的规则
