@@ -194,7 +194,7 @@ Jaccard距离-权重聚类树形图
 
 Jaccard距离-组平均2-聚类结果（$$Q=0.37147$$）
 
-<img src="img/Cluster.png" style="zoom:70%;" />
+<img src="img/cluster.png" style="zoom:70%;" />
 
 ## 5. 心得体会
 
